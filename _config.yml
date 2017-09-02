@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          TLHP
+title:          Techno Live Co.,Ltd.
 paginate:       5
 baseurl:        ""
 url:            "https://seongchankim.github.io"
