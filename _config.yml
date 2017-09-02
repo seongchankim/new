@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          TLHP
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://eongchankim.github.io"
 
 # Assets
 sass:
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://eongchankim.github.io
 
 # Gems
 gems:
