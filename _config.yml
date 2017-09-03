@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Techno Live Co.,Ltd.
 paginate:       5
 baseurl:        ""
-url:            "https://seongchankim.github.io"
+url:            "https://seongchankim.github.io/new"
 
 # Assets
 sass:
@@ -17,14 +17,14 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Techno Live Co.,Ltd.
+  url:          https://seongchankim.github.io/new
+  email:        kim-seongchan@technolive.co.jp
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://seongchankim.github.io
+  repo:         https://seongchankim.github.io/new
 
 # Gems
 gems:
